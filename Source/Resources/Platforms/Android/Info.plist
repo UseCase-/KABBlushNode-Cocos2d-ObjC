@@ -5,15 +5,15 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
-	<string>PROJECTNAME</string>
+	<string>KABBlush</string>
 	<key>CFBundleExecutable</key>
-	<string>PROJECTIDENTIFIER</string>
+	<string>KABBlush</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.cocos2d.PROJECTIDENTIFIER</string>
+	<string>org.cocos2d.KABBlush</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>PROJECTIDENTIFIER</string>
+	<string>KABBlush</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
