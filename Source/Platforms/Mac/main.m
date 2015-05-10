@@ -1,6 +1,6 @@
 //
 //  main.m
-//  PROJECTNAME Mac
+//  KABBlush Mac
 //
 //  Created by Collin Jackson on 10/2/14.
 //  Copyright (c) 2014 Apportable. All rights reserved.
