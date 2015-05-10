@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-               BuildableName = "PROJECTNAME.app"
-               BlueprintName = "PROJECTNAME iOS"
-               ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+               BuildableName = "KABBlush.app"
+               BlueprintName = "KABBlush iOS"
+               ReferencedContainer = "container:KABBlush.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "PROJECTNAME.app"
-            BlueprintName = "PROJECTNAME iOS"
-            ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+            BuildableName = "KABBlush.app"
+            BlueprintName = "KABBlush iOS"
+            ReferencedContainer = "container:KABBlush.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "PROJECTNAME.app"
-            BlueprintName = "PROJECTNAME iOS"
-            ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+            BuildableName = "KABBlush.app"
+            BlueprintName = "KABBlush iOS"
+            ReferencedContainer = "container:KABBlush.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "PROJECTNAME.app"
-            BlueprintName = "PROJECTNAME iOS"
-            ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+            BuildableName = "KABBlush.app"
+            BlueprintName = "KABBlush iOS"
+            ReferencedContainer = "container:KABBlush.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "927F6198196C771E000F43EF"
-               BuildableName = "PROJECTNAME Android.app"
-               BlueprintName = "PROJECTNAME Android"
-               ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+               BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+               BuildableName = "KABBlush Mac.app"
+               BlueprintName = "KABBlush Mac"
+               ReferencedContainer = "container:KABBlush.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "927F6198196C771E000F43EF"
-            BuildableName = "PROJECTNAME Android.app"
-            BlueprintName = "PROJECTNAME Android"
-            ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+            BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+            BuildableName = "KABBlush Mac.app"
+            BlueprintName = "KABBlush Mac"
+            ReferencedContainer = "container:KABBlush.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "927F6198196C771E000F43EF"
-            BuildableName = "PROJECTNAME Android.app"
-            BlueprintName = "PROJECTNAME Android"
-            ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+            BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+            BuildableName = "KABBlush Mac.app"
+            BlueprintName = "KABBlush Mac"
+            ReferencedContainer = "container:KABBlush.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "927F6198196C771E000F43EF"
-            BuildableName = "PROJECTNAME Android.app"
-            BlueprintName = "PROJECTNAME Android"
-            ReferencedContainer = "container:PROJECTNAME.xcodeproj">
+            BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+            BuildableName = "KABBlush Mac.app"
+            BlueprintName = "KABBlush Mac"
+            ReferencedContainer = "container:KABBlush.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
